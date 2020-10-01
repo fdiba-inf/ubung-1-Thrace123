@@ -8,8 +8,6 @@ public class FdibaOutput {
     System.out.println(" FFFF   D     D II  BBBB    AAAAA");
     System.out.println(" F      D   D   II  B   B  A     A");
     System.out.println(" F      DDDD    II  BBBB  A       A");
-    System.out.println(" F      DDDD    II  BBBB  A       A");
-
 
   }
 }
